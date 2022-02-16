@@ -1,0 +1,195 @@
+ .table {
+     text-align: center;
+     table-layout: center;
+     margin: 0 auto
+
+ }
+
+
+h4
+    {
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 10px, auto;
+    height: 100px;
+    padding: 35px
+    
+
+
+  
+}
+.title {
+    color: yellowgreen;
+    text-align: center;
+    width: 900px;
+    height: 100px;
+    margin: 10px auto;
+    border-radius: 150px;
+    padding: 5px 80px;
+    letter-spacing: 0.3em;
+    letter-spacing: 0.3em;
+    
+
+}
+* {
+    border: 1px solid;
+    box-sizing: border-box;
+    background-image: linear-gradient(to right, rgb(221, 221, 223), rgb(199, 221, 90));
+}
+
+
+
+.uppercase {
+    text-transform: uppercase;
+    color: yellowgreen;
+    text-align: center
+}
+
+#article-title {
+    font-family: cursive;
+    
+}
+a[href*='nursing'] {
+    color: lightblue;
+}
+
+a:hover {
+    color:darkorange;
+}
+
+.international-nurses {
+    background-color: aqua;
+    font-style: italic;
+    font-stretch: condensed;
+    text-decoration-style: double;
+    text-align: center
+
+}
+#proceed,
+     {
+
+    color: blue;
+
+}
+footer {
+    color: green;
+}
+
+thead th,
+    tfoot
+
+{
+    font-style: italic;
+    color:darkmagenta
+}
+tbody th {
+    font-style: oblique;
+
+
+}
+p {
+    color: rgba(225, 0, 0, 0.7);
+    font-family: 'Space Mono', monospace;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: left;
+    min-width: 100px;
+    min-height: 50px;
+    max-height: 100px;
+    min-width: 50px;
+    display: inline block;
+    word-spacing: 0.3em;
+    line-height: 1.1;
+    padding-bottom: 20px;
+    
+
+    
+   
+}
+figure, figcaption {
+    display: block;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+figure, figcaption{
+    background-color: green;
+    color: orange
+
+}
+div, video {
+    background-color: hsla(225, 100%, 25%, 0.932);
+}
+
+.pic {
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg');
+    opacity: 0.99;
+
+}
+
+ul, 
+    li {
+    text-align: center;
+    list-style-position: inside;
+    justify-content: center;
+    list-style: none;
+    color: hsla(225, 100%, 25%, 0.932);
+    font-family: 'Roboto Serif', sans-serif;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  
+   
+  }
+  h5 {
+      text-transform: uppercase;
+      color: brown;
+      
+      
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
